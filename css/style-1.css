@@ -1,0 +1,85 @@
+﻿@charset "utf-8";
+body {
+	background-color: #FFFFFF;
+	color: #7f571e;
+	margin: 0px;
+
+}
+p.firstline{
+	margin: 0px;
+}
+p.lastline{
+	margin-bottom: 0px;
+}
+p.copyrighttext{
+	margin: 0px auto;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: back;
+}
+#titlename{
+	font-size: 26px;
+	text-align: center;
+	color:#800019;
+	margin-left: 15%;
+	margin-right: 14.5%;
+	height:74px
+}
+#titlename h1{
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+	padding: 0px 0px 4px 0px;
+	min-width: 400px;
+	
+}
+#nav{
+	background-color: #FFFFFF; /* 将导航块背景设为白色 */
+	width: 150px;
+	margin-top: 0px;
+	margin-left: 15%;
+	float: left;
+	height: 640px;
+}
+#nav h3{
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+#content{
+	background-color: #EEE;
+	color:#800019;
+	margin-top: 0px;
+	margin-right: 20%;
+	margin-left: calc(15% + 150px);
+	padding-right: 20px;
+	padding-left: 2px;
+	min-width: 244px;
+	text-align: center;
+}
+#content:h
+#copyright{
+	background-color: #000;
+	margin-left: 15%;
+	margin-right: 15%;
+	padding-left: 0.5%;
+	clear: both;
+	min-width: 400px;
+}
+
+	
+}
+#test{
+	width: 100px;
+	height: 50px;
+	background-color: white;
+	margin-left: 15%;
+	margin-top: 50px;
+	padding: 10px;
+	border: 10px solid black;
+}
+
+	
